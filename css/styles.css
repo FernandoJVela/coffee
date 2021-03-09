@@ -48,3 +48,10 @@ main
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+footer
+{
+    height: 5em;
+    background-color: cornsilk;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
