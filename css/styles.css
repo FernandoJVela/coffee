@@ -42,9 +42,14 @@ header .header_title
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-main 
+main .main_panel
 {
-    color:  dimgrey;
+    width: 100%;
+    height: auto;
+    margin: 1em 0em;
+    padding: 1em;
+    color:  white;
+    background-color: #deb88a;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
